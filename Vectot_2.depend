@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1727104560 source:c:\prog\vectot_2\function.cpp
+	"Header.h"
+
+1727103481 c:\prog\vectot_2\header.h
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+
+1727104820 source:c:\prog\vectot_2\main.cpp
+	"Header.h"
+
